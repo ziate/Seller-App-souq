@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671341358903",
+    "project_id": "souqadambaa",
+    "storage_bucket": "souqadambaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671341358903:android:79fddf8c96b7c0d1e934b2",
+        "android_client_info": {
+          "package_name": "com.souqadam.tgarrr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671341358903-p3fdqlknm2rf1te7sp1gld1itt5o8k1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJl15ba4cpHV-WGbi-syfsXne-HIdW24E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671341358903-p3fdqlknm2rf1te7sp1gld1itt5o8k1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
